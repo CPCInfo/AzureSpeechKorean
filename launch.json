@@ -1,0 +1,11 @@
+"args": [
+    "run",
+    "--no-debugger",
+    "--no-reload",
+    "--port = 5001"    
+],
+"jinja": true,
+"justMyCode": true
+}
+]
+}
